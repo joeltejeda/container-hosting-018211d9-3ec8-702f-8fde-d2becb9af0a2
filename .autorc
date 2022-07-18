@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "joeltejeda",
+  "repo": "container-hosting-018211d9-3ec8-702f-8fde-d2becb9af0a2",
+  "name": "joeltejeda",
+}
